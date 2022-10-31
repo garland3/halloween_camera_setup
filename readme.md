@@ -13,6 +13,20 @@ Trying to use some ML to process my security camera and scare people at the door
    1. I got audio from a youtube video. see [src\utilslocal\audiotest.py](src\utilslocal\audiotest.py)
    2. I'm trying to make it talk to the people.
 
+When running, I save the images so that I can reprocess them later for testing.
+
+for testing.
+
+```bash
+python main.py --usbcam --doml --fakecamera
+```
+
+for using the real camera.
+
+```bash
+python main.py --usbcam --doml
+```
+
 ## OLD
 
 1. use yolo
