@@ -10,10 +10,12 @@ Trying to use some ML to process my security camera and scare people at the door
 2. using yolo
    1. [yolo from torch](https://github.com/ultralytics/yolov5>)
 3. for audio
-   1. I got audio from a youtube video. see [src\utilslocal\audiotest.py](src\utilslocal\audiotest.py)
+   1. I got audio from a youtube video. see [src\utilslocal\audiotest.py](src/utilslocal/audiotest.py)
    2. I'm trying to make it talk to the people.
 
 When running, I save the images so that I can reprocess them later for testing.
+
+Run the code in the `src` dir. 
 
 for testing.
 
