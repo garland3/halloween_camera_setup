@@ -3,6 +3,7 @@ imgs/
 
 *.pt
 yolo3.txt
+file.mp3
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

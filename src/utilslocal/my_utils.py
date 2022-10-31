@@ -41,7 +41,9 @@ class FakeCamera:
         numbers_ints = get_and_sort_imgs_by_number()
         self.mymax =  max(numbers_ints)
         self.dir = get_img_dir()
-        self.cnt = 1
+        # self.cnt = 1
+        self.cnt = 2050
+        
 
     def read(self):
         name = self.dir / f"img{self.cnt}.png"
