@@ -32,7 +32,6 @@ python main.py --usbcam --doml
 ## OLD
 
 1. use yolo
-2.
    1. using hf
       1. <https://huggingface.co/docs/transformers/model_doc/yolos>
       2. <https://huggingface.co/hustvl/yolos-small>
